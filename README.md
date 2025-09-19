@@ -1,1 +1,1 @@
-# hello-git
+# hello-git"learning from scratch !" 
